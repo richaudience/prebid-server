@@ -1,0 +1,13 @@
+maintainer:
+  email: cert@richaudience.com
+gvlVendorID: 108
+modifyingVastXmlAllowed: true
+capabilities:
+  app:
+    mediaTypes:
+      - banner
+      - video
+  site:
+    mediaTypes:
+      - banner
+      - video
